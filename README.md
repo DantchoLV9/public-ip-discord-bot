@@ -4,6 +4,11 @@ Made this quickly to see if it will work. (It does) It's a Discord bot which rep
 
 Use the `/getip` command to get the IP of the machine hosting the bot!
 
+## Requirements
+
+1. [NodeJS](https://nodejs.org/en/)
+2. [Discord Application Bot](https://discord.com/developers/applications)
+
 ## Install/Use
 
 1. Clone repo `git clone https://github.com/DantchoLV9/public-ip-discord-bot.git`
